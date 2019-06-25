@@ -4,13 +4,12 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/app.js"
   },
   "author": "Kevin Sparling",
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.4",
-    "fetch": "^1.1.0",
     "hbs": "^4.0.4",
     "request": "^2.88.0"
   }
